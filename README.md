@@ -29,7 +29,7 @@ You can download our SAUD-Dataset from（Modification date 2022.05.05）
 You can download our NUIQ-Metric from
 >BaiduYun Disk: [MCOLE-Metric-released](https://pan.baidu.com/s/1rYuPq2Kee0eNtjucGSPjfA?)  (key:1234)
 >
->Google Drive: [MCOLE-Metric-released](https://drive.google.com/file/d/12qxlh54mReVOwgJVQW5SXs7dtxpejYdi/view?usp=sharing)
+>Google Drive: [MCOLE-Metric-released](https://drive.google.com/file/d/12qxlh54mReVOwgJVQW5SXs7dtxpejYdi/view?usp=drive_linkg)
 
 
 ## ✨Statement
